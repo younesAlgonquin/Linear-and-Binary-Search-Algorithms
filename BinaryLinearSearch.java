@@ -3,15 +3,10 @@ import java.util.Arrays;
 
 /**
  * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
  * This class implements a method that generates an array of random integers and sorts it.
- * then it declares methods for iterative & recursive binary & linear search of an integer within this array.
- * Student Name: Younes Boutaleb
- * Student Number: 041019068 
+ * then it declares methods for iterative & recursive binary & linear search of an integer within this array. 
  * Section #: 303
  * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
