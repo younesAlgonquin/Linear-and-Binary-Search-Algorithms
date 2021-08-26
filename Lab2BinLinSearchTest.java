@@ -4,16 +4,10 @@ import java.util.Scanner;
 
 /**
  * CET - CS Academic Level 3
- * 
- * Declaration: I declare that this is my own original work and is free from Plagiarism
  * This class tests the program by displaying a menu of options and prompts users to choose one of them.
  * then it displays an array of integers and performs binary and iterative search
- * Student Name: Younes Boutaleb
- * Student Number: 041019068 
  * Section #: 303
  * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
